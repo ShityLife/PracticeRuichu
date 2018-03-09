@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RuiChu</string>
+    <string name="take_photo">拍摄照片</string>
+    <string name="upload">上传图片</string>
+</resources>
